@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=0099FF&center=true&vCenter=true&width=440&lines=%F0%9F%91%8B+Hola%2C+soy+Fernando+Cibau;Desarrollador+apasionado+por+la+tecnolog%C3%ADa;Amante+del+c%C3%B3digo+y+el+aprendizaje+constante" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=0099FF&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Hola%2C+soy+Fernando+Cibau;Desarrollador+apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+constante" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,19 +50,3 @@
   <br/>
   <i>Si te interesan mis proyectos o quieres colaborar, no dudes en contactarme o dejar un issue en cualquiera de mis repositorios.</i>
 </p>
-
-
-<!--
-**fernandoCibau/fernandoCibau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
