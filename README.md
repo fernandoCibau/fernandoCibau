@@ -4,8 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=0099FF&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Hola%2C+soy+Fernando+Cibau;Desarrollador+apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+constante" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=700&color=0099FF&center=true&vCenter=true&width=760&lines=%F0%9F%91%8B+Hola%2C+soy+Fernando+Cibau;Desarrollador+apasionado+por+la+tecnolog%C3%ADa;Amante+del+c%C3%B3digo+y+el+aprendizaje+constante"
+    alt="Typing SVG" />
 </p>
+
 
 ---
 
